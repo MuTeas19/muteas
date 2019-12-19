@@ -1,5 +1,5 @@
 number,symbol,name,turkishName,tur,kutle,e-dizilimi,konum,faz;
-1,H,Hydrogen,Hidrojen,ametal,1.0079,1s1,1/1A,Gas;
+1,H,Hydrogeeen,Hidrojen,ametal,1.0079,1s1,1/1A,Gas;
 2,He,Helium,Helyum,soygaz,4.0026,1s2,1/8A,Gas;
 3,Li,Lithium,Lityum,metal,6.941,[He] 2s1,2/1A,Solid;
 4,Be,Beryllium,Berilyum,metal,9.0122,[He] 2s2,2/2A,Solid;
